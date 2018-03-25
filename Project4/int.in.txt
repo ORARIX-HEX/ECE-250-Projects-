@@ -1,0 +1,33 @@
+new
+capacity 32
+size 0
+insert -1
+insert -2
+insert -32
+insert -64
+load_factor 0.125
+insert -96
+size 5
+member -96 1
+bin 0 -32
+bin 1 -64
+bin 3 -96
+bin 31 -1
+bin 30 -2
+erase -96 1
+erase -32 1
+erase -96 0
+clear
+load_factor 0
+delete
+new: 3
+capacity 8
+size 0
+insert -1
+insert -2
+insert -32
+insert -64
+load_factor 0.5
+delete
+summary
+exit
