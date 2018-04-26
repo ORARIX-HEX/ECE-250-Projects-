@@ -1,8 +1,6 @@
 # ECE-250-Projects-
 Data Structures Project Repository (ECE 250)
-Algortihms and Data Structures 2nd year project. Each project folder includes header, tester.h files and commented description of all functions, constructors, destructors and class constants  
-
-Project 1: Implementattion of Double Sentinnel Linked List 
+Algortihms and Data Structures 2nd year project. Each project folder includes header, tester.h files and commented description of all functions, constructors, destructors and class constants. This repository contains the following projects.   
 
 Project 2: Implementation of dynamic queue and linked stack data structure
 
